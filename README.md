@@ -7,7 +7,9 @@ and products that can solve problems and derive insights from the customers.
 I’m interested in data anaytics, data science and ML projects. 
 
 Strong languages: Python and its derivatives (Tensorflow)
+
 🌱 I’m currently learning MLOPs and end-to-end pipeline developments. 
-💞️ I’m looking to collaborate on ML ecosystem projects 
+
+💞️ I’m looking to collaborate on various data-driven projects 
 
 

@@ -6,10 +6,11 @@ and products that can solve problems and derive insights from the customers.
 
 I’m interested in data anaytics, data science and ML projects. 
 
-Strong languages: Python and its derivatives (Tensorflow)
+Strong languages: Python and its derivatives- Tensorflow and PyTorch. 
 
-🌱 I’m currently learning MLOPs and end-to-end pipeline developments. 
+🌱 Currently learning Deep Generative Models (Generative Adversarial Networks (GANs), Variational Auto-Encoders (VAEs) and Normalizing Flows  (NFs)), MLOPs, and end-to-end pipeline developments. 
 
-💞️ I’m looking to collaborate on various data-driven projects 
+💞️ Collaborate on various data-driven projects, in diverse industries. 
+
 
 

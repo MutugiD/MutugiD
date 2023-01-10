@@ -8,7 +8,7 @@ I’m interested in computational finance and data science projects.
 
 Strong languages - Python and its derivatives - Tensorflow and PyTorch. 
 
-🌱 Currently learning Deep Generative Models (Generative Adversarial Networks (GANs), Variational Auto-Encoders (VAEs) and Normalizing Flows  (NFs)), MLOPs, and end-to-end pipeline developments. 
+🌱 Currently learning Deep Generative Models, MLOPs, and end-to-end pipeline developments. 
 
 💞️ Collaborate on various data-driven projects, in diverse industries. 
 

@@ -6,11 +6,9 @@ and products that can solve problems and derive insights from the customers.
 
 I’m interested in computational finance and data science projects. 
 
-Strong languages - Python and its derivatives - Tensorflow and PyTorch. 
+Strong languages - Python and its derivatives - Keras, Tensorflow and PyTorch. 
 
-🌱 Currently learning Deep Learning Models, MLOPs, and end-to-end pipeline developments. 
-
-💞️ Collaborate on various data-driven projects, in diverse industries. 
+🌱 Currently learning and experimenting Deep Learning Models, MLOPs, and end-to-end pipeline developments. 
 
 
 
